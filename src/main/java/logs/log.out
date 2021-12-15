@@ -1,0 +1,78 @@
+2021-12-14 20:12:794 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 20:12:625 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 20:12:540 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 20:12:338 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 20:12:162 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 20:12:148 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:713 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:158 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:561 INFO  HomePage :76 - Entering location : Harrow
+2021-12-14 22:12:703 INFO  HomePage :81 - Entering distance : up to 5 miles
+2021-12-14 22:12:980 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:158 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:365 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:444 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:596 INFO  HomePage :106 - Selecting job type : Permanent
+2021-12-14 22:12:777 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:682 INFO  ResultPage :26 - Verifying search result header message : Permanent Tester jobs in Harrow on the Hill
+2021-12-14 22:12:438 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:796 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:914 INFO  HomePage :76 - Entering location : Wembley
+2021-12-14 22:12:42 INFO  HomePage :81 - Entering distance : up to 7 miles
+2021-12-14 22:12:421 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:568 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:776 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:865 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:995 INFO  HomePage :106 - Selecting job type : Contract
+2021-12-14 22:12:195 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:730 INFO  ResultPage :26 - Verifying search result header message : Contract Tester jobs in Wembley
+2021-12-14 22:12:495 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:499 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:784 INFO  HomePage :76 - Entering location : Watford
+2021-12-14 22:12:905 INFO  HomePage :81 - Entering distance : up to 10 miles
+2021-12-14 22:12:194 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:318 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:522 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:595 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:712 INFO  HomePage :106 - Selecting job type : Temporary
+2021-12-14 22:12:914 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:556 INFO  ResultPage :26 - Verifying search result header message : Temporary Tester jobs in Watford
+2021-12-14 22:12:331 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:325 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:199 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:15 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:743 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:992 INFO  HomePage :76 - Entering location : Harrow
+2021-12-14 22:12:132 INFO  HomePage :81 - Entering distance : up to 5 miles
+2021-12-14 22:12:422 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:608 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:764 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:826 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:960 INFO  HomePage :106 - Selecting job type : Permanent
+2021-12-14 22:12:158 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:550 INFO  ResultPage :26 - Verifying search result header message : Permanent Tester jobs in Harrow on the Hill
+2021-12-14 22:12:335 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:942 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:171 INFO  HomePage :76 - Entering location : Wembley
+2021-12-14 22:12:292 INFO  HomePage :81 - Entering distance : up to 7 miles
+2021-12-14 22:12:545 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:702 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:907 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:09 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:122 INFO  HomePage :106 - Selecting job type : Contract
+2021-12-14 22:12:294 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:236 INFO  ResultPage :26 - Verifying search result header message : Contract Tester jobs in Wembley
+2021-12-14 22:12:09 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:401 INFO  HomePage :71 - Entering Job title : Tester
+2021-12-14 22:12:512 INFO  HomePage :76 - Entering location : Watford
+2021-12-14 22:12:640 INFO  HomePage :81 - Entering distance : up to 10 miles
+2021-12-14 22:12:31 INFO  HomePage :86 - Clicking on more search option : Fewer Search Options
+2021-12-14 22:12:227 INFO  HomePage :91 - Entering minimum salary : 30000
+2021-12-14 22:12:365 INFO  HomePage :96 - Entering maximum salary : 500000
+2021-12-14 22:12:470 INFO  HomePage :101 - Selecting salary type : Per annum
+2021-12-14 22:12:592 INFO  HomePage :106 - Selecting job type : Temporary
+2021-12-14 22:12:793 INFO  HomePage :111 - Clicking on find job button : 
+2021-12-14 22:12:13 INFO  ResultPage :26 - Verifying search result header message : Temporary Tester jobs in Watford
+2021-12-14 22:12:804 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:971 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-14 22:12:716 INFO  ManageDriver :32 - Launching Chrome Browser
